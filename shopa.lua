@@ -22,7 +22,7 @@ local Upgrade3Cost = Instance.new("TextLabel")
 CookieClicker.Name = "CookieClicker"
 CookieClicker.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 CookieClicker.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-CookieClicker.ResetOnSpawn = false
+CookieClicker.ResetOnSpawn = false 
 
 Main.Name = "Main"
 Main.Parent = CookieClicker
