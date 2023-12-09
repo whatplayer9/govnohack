@@ -26,10 +26,10 @@ CookieClicker.ResetOnSpawn = false
 
 Main.Name = "Main"
 Main.Parent = CookieClicker
-Main.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Main.BackgroundColor3 = Color3.fromRGB(256, 256, 256)
 Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Main.BorderSizePixel = 0
-Main.Position = UDim2.new(0.269513756, 0, 0.550653577, 0)
+Main.Position = UDim2.new(0.1, 0, 0.1, 0)
 Main.Size = UDim2.new(0, 238, 0, 219)
 Main.Active = true
 Main.Draggable = true
